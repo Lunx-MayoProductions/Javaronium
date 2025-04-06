@@ -9,7 +9,7 @@ Also we are going to use Log4J (Log for Java)
 ## The Coding!
 
 We are going to use gradle. Just because its better. So if you have not already, create a Project (I use IntelliJ Idea) with gradle as a building tool.
-{% hint style="danger" %} **You can but should NOT use maven** {% endhint %}
+{% hint style="danger" %} You can but should NOT use maven {% endhint %}
 
 ### Gradle
 ```
