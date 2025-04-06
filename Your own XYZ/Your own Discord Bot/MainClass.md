@@ -3,17 +3,13 @@
 ## Libaries
 
 For this we are going to use JavaCord, if you want a tutorial on D4J or else, contact me!
-:::info
-JavaCord is often used, so support is easy to find.
-:::
+{% hint style="success" %} You will find support for Javacord as its often used. {% endhint %}
 Also we are going to use Log4J (Log for Java)
 
 ## The Coding!
 
 We are going to use gradle. Just because its better. So if you have not already, create a Project (I use IntelliJ Idea) with gradle as a building tool.
-:::danger
-You can but should not use maven
-:::
+{% hint style="danger" %} **You can but should NOT use maven** {% endhint %}
 
 ### Gradle
 ```
@@ -37,7 +33,7 @@ dependencies {
 ```
 
 ## What you need
-You should already have a (discord application.)[https://discordapp.com/developers/applications/me] and have the token reset & copied.
+You should already have a [discord application](https://discordapp.com/developers/applications/me) and have the token reset & copied.
 
 ## Actual Coding this time.
 
